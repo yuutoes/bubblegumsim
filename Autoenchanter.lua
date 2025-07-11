@@ -1,4 +1,3 @@
--- This script was protected using niggerware enterprise - v.1.239532423853434 | made by [https://discord.gg/m6tbcRnkmY] - [https://discord.gg/NMFffVkDPv]
 -- if you made it this far, considering joining : https://discord.gg/m6tbcRnkmY the best ALS Script on the market.
 
 local function La(_a,eb)
