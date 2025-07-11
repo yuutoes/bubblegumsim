@@ -1,5 +1,6 @@
 -- This script was protected using niggerware enterprise - v.1.239532423853434 | made by [https://discord.gg/m6tbcRnkmY] - [https://discord.gg/NMFffVkDPv]
 -- if you made it this far, considering joining : https://discord.gg/m6tbcRnkmY the best ALS Script on the market.
+
 local function La(_a,eb)
     local q,Ca,J,Ga,t,na,k,Tb
     Tb,na={[-7907]=-26557,[-24232]=7689,[-7262]=-24612,[15322]=31914,[2409]=-9267,[-24627]=26345,[-7752]=28479,[30127]=29645,[-20145]=24692,[11274]=-23541,[10550]=9388,[-6005]=-24612,[-27312]=31914,[-3809]=-28544,[7689]=-23541,[-31385]=8326},function(x)
